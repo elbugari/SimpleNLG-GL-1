@@ -19,7 +19,7 @@ O lexicón empregado en SimpleNLG-gl está xerado a partir do dicionario de [Fre
 
 Cita
 ----
-A libraría SimpleNLG-GL foi presentada na "[11th International Conference on Natural Language Generation (INLG2017)](https://inlg2018.uvt.nl/)", celebrada en Tilburg (5-8 novembro 2018). Se utilizas SimpleNLG-GL nalgún proxecto, agradecemos que cites o traballo onde se describe:
+A libraría SimpleNLG-GL foi presentada na "[11th International Conference on Natural Language Generation (INLG2017)](https://inlg2018.uvt.nl/)", celebrada en Tilburg (5-8 novembro 2018). Se usas SimpleNLG-GL nalgún proxecto, agradecemos que cites o traballo onde se describe:
 
 > Andrea Cascallar-Fuentes, Alejandro Ramos-Soto, Alberto Bugarín, "[Adapting SimpleNLG to Galician Language](https://citius.usc.es/investigacion/publicacions/listado/adapting-simplenlg-to-galician-language)". Proceedings of the 11th International Conference on Natural Language Generation (INLG2018).
 
